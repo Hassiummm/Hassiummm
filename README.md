@@ -2,6 +2,10 @@ I'm glad you visit my Github ^ _ ^
 
 For more information, check my Hello World repository.
 
+Please share any books or articles you find interesting (>^ω^<)
+
+If you find mistakes in my notes, please contact me at: andyshuaihao@gmail.com
+
 <h3>Interesting links</h3>
 
 Need inspirations? check [here](https://www.theproofistrivial.com/)
