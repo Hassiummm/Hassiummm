@@ -1,8 +1,12 @@
-I'm glad you visit my Github ^ _ ^ 
-  
-For more information, check my Hello World repository.
+Hi, this is Hassiummm's Github page.
 
-What is "costudying"? Think about the dual: co-study, not studying at all.....
+I'm glad you visit here ^ _ ^
+  
+What does "Hassiummm" mean? Hint: hassium is a chemical element with atomic number 108. 
+
+What is "costudy"? Think about the dual: co-study, not studying at all...
+
+For more information, check my Hello World repository.
 
 # Some Interesting Links #
 
