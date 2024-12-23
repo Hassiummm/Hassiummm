@@ -7,7 +7,7 @@ What is "costudying"? Think about the dual: co-study, not studying at all.....
 
 <h3>Some Interesting Links</h3>
 
-Need inspirations? check [here](https://www.theproofistrivial.com/) (>^ω^<)
+Need inspirations? check [the proof is trivial](https://www.theproofistrivial.com/) (>^ω^<)
 
 Which GTM book are you??? check [GTM test](https://math.jhu.edu/~savitt/GTM.html)
 
