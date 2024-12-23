@@ -24,7 +24,7 @@ Github page of my friend **ETwilight**: [here](https://github.com/ETwilight)
 
 Github page of my friend **Shanbo Zhang**: [here](https://github.com/EscapistArcadia)
 
-Github page of my fried **Chen-Wei Chou**: [here]()
+Github page of my fried **Chen-Wei Chou**: [here](https://github.com/Chenwei-Chou)
 
 <!---
 Hassiummm/Hassiummm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
