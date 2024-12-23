@@ -1,4 +1,3 @@
-
 I'm glad you visit my Github ^ _ ^ 
   
 For more information, check my Hello World repository.
