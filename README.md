@@ -4,7 +4,7 @@ For more information, check my Hello World repository.
 
 What is "costudying"? Think about the dual: co-study, not studying at all.....
 
-<h3>Some Interesting Links</h3>
+# Some Interesting Links #
 
 Need inspirations? check [the proof is trivial](https://www.theproofistrivial.com/) (>^ω^<)
 
