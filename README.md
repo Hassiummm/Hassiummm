@@ -16,7 +16,7 @@ Summary of common LATEX math symbols: [here](https://www.cmor-faculty.rice.edu/~
 
 Sheldon Axler's answer on why LADR: [here](https://www.reddit.com/r/math/comments/15ahoci/why_does_sheldon_axler_hate_determinants/)
 
-Emil Artin's book on Galois theory: [here](https://projecteuclid.org/ebooks/notre-dame-mathematical-lectures/Galois-Theory/toc/ndml/1175197041#toc)
+Emil Artin's book on Galois theory: [here]([https://projecteuclid.org/ebooks/notre-dame-mathematical-lectures/Galois-Theory/toc/ndml/1175197041#toc](https://store.doverpublications.com/products/9780486623429?srsltid=AfmBOoqdNAnqEQkpm7vceBoEhEcFsB8XHVWa74YUjSIhna0-YMCIavZD))
 
 My favorite book: S. Lang's [Algebra](https://math24.wordpress.com/wp-content/uploads/2013/02/algebra-serge-lang.pdf)
 
