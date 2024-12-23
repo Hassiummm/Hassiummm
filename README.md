@@ -1,5 +1,5 @@
 
-I'm glad you visit my Github ^ _ ^  <img align="right" width="300" height="300" src="https://github.com/user-attachments/assets/ec246750-b2e8-42bd-9855-aac974f874b4" alt="山田 リョウ" width="300" style="position: absolute; top: 0; right: 0; margin-left: 20px;">
+I'm glad you visit my Github ^ _ ^ 
   
 For more information, check my Hello World repository.
 
