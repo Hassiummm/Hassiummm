@@ -1,4 +1,4 @@
-# Hi, this is Hassiummm's Github page. #
+# Hi, this is Hassiummm's Github page #
 
 I'm glad you visit here ^ _ ^
   
