@@ -3,9 +3,7 @@ I'm glad you visit my Github ^ _ ^
   
 For more information, check my Hello World repository.
 
-Please share any books or articles you find interesting (>^ω^<)
-
-<h3>Links</h3>
+<h3>Some Interesting Links</h3>(>^ω^<)
 
 Need inspirations? check [here](https://www.theproofistrivial.com/)
 
