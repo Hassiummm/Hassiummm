@@ -6,6 +6,8 @@ Please share any books or articles you find interesting (>^ω^<)
 
 <h3>Interesting links</h3>
 
+![WechatIMG112](https://github.com/user-attachments/assets/44a30c75-376e-49c4-9f35-a72ed2594269)
+
 Need inspirations? check [here](https://www.theproofistrivial.com/)
 
 Which GTM book are you??? check [GTM test](https://math.jhu.edu/~savitt/GTM.html)
