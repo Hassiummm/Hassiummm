@@ -1,12 +1,13 @@
-I'm glad you visit my Github ^ _ ^ 
+<div style="overflow: auto;">
+    <img src="https://github.com/user-attachments/assets/ec246750-b2e8-42bd-9855-aac974f874b4" alt="山田 リョウ" width="200" style="float: right; margin-left: 10px;">
 
+I'm glad you visit my Github ^ _ ^ 
+  
 For more information, check my Hello World repository.
 
 Please share any books or articles you find interesting (>^ω^<)
 
-<h3>Interesting links</h3>
-
-![WechatIMG112](https://github.com/user-attachments/assets/44a30c75-376e-49c4-9f35-a72ed2594269)
+<h3>Links</h3>
 
 Need inspirations? check [here](https://www.theproofistrivial.com/)
 
@@ -24,6 +25,7 @@ Github page of my friend **ETwilight**: [here](https://github.com/ETwilight)
 
 Github page of my friend **Shanbo Zhang**: [here](https://github.com/EscapistArcadia)
 
+</div>
 <!---
 Hassiummm/Hassiummm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
