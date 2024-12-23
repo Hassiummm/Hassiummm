@@ -18,6 +18,8 @@ Summary of common LATEX math symbols: [here](https://www.cmor-faculty.rice.edu/~
 
 Sheldon Axler's answer on why LADR: [here](https://www.reddit.com/r/math/comments/15ahoci/why_does_sheldon_axler_hate_determinants/)
 
+Emil Artin's book on Galois theory: [here](https://projecteuclid.org/ebooks/notre-dame-mathematical-lectures/Galois-Theory/toc/ndml/1175197041#toc)
+
 Github page of my friend **ETwilight**: [here](https://github.com/ETwilight)
 
 Github page of my friend **Shanbo Zhang**: [here](https://github.com/EscapistArcadia)
