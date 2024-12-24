@@ -8,7 +8,7 @@ What is "costudy"? Think about the dual: co-study, not studying at all...
 
 Please share any books or articles you find interesting (>^ω^<)
 
-If you find mistakes in my notes, please contact me at shuaih5@illinois.edu or on discord (my username: hassium_hs)
+Contact me via: shuaih5@illinois.edu or discord (my username: hassium_hs)
 
 For more information, check my Hello World repository.
 
