@@ -20,7 +20,7 @@ Which GTM book are you??? check [GTM test](https://math.jhu.edu/~savitt/GTM.html
 
 Are you familiar with LaTex fonts? check [mathfrak test](https://cims.nyu.edu/~tjl8195/quiz/frak.html)
 
-Start with proof-based mathematics: [here](https://link.springer.com/book/10.1007/978-1-4614-4265-3)
+Start with proof-based mathematics: [here](https://link.springer.com/book/10.1007/978-1-4614-4265-3) or [here](https://linear.axler.net/)
 
 Summary of common LaTeX math symbols: [here](https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf)
 
