@@ -6,6 +6,10 @@ What does "Hassiummm" mean? Hint: hassium is a chemical element with atomic numb
 
 What is "costudy"? Think about the dual: co-study, not studying at all...
 
+Please share any books or articles you find interesting (>^ω^<)
+
+If you find mistakes in my notes, please contact me at shuaih5@illinois.edu or on discord (my username: hassium_hs)
+
 For more information, check my Hello World repository.
 
 # Some Interesting Links #
