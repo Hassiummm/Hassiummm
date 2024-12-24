@@ -28,8 +28,6 @@ Sheldon Axler's answer on why LADR: [here](https://www.reddit.com/r/math/comment
 
 Emil Artin's book on Galois theory: [here](https://projecteuclid.org/ebooks/notre-dame-mathematical-lectures/Galois-Theory/toc/ndml/1175197041)
 
-My favorite book: S. Lang's [Algebra](https://math24.wordpress.com/wp-content/uploads/2013/02/algebra-serge-lang.pdf)
-
 Github page of my friend **ETwilight**: [here](https://github.com/ETwilight)
 
 Github page of my friend **Shanbo Zhang**: [here](https://github.com/EscapistArcadia)
