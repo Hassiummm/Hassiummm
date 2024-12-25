@@ -18,7 +18,7 @@ Need inspirations? check [the proof is trivial](https://www.theproofistrivial.co
 
 Which GTM book are you??? check [GTM test](https://math.jhu.edu/~savitt/GTM.html)
 
-Are you familiar with LaTex fonts? check [mathfrak test](https://cims.nyu.edu/~tjl8195/quiz/frak.html)
+Are you familiar with LaTeX fonts? check [mathfrak test](https://cims.nyu.edu/~tjl8195/quiz/frak.html)
 
 Start with proof-based mathematics: [here](https://link.springer.com/book/10.1007/978-1-4614-4265-3) or [here](https://linear.axler.net/)
 
