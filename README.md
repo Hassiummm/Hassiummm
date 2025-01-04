@@ -26,7 +26,9 @@ Start with proof-based mathematics: [here](https://link.springer.com/book/10.100
 
 Sheldon Axler's answer on why LADR: [here](https://www.reddit.com/r/math/comments/15ahoci/why_does_sheldon_axler_hate_determinants/)
 
-Emil Artin's book on Galois theory: [here](https://projecteuclid.org/ebooks/notre-dame-mathematical-lectures/Galois-Theory/toc/ndml/1175197041)
+The best introductory math book: Lang's [Algebra](https://link.springer.com/book/10.1007/978-1-4613-0041-0)
+
+Emil Artin's notes on Galois theory: [here](https://projecteuclid.org/ebooks/notre-dame-mathematical-lectures/Galois-Theory/toc/ndml/1175197041)
 
 Github page of my friend **ETwilight**: [here](https://github.com/ETwilight)
 
