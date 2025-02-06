@@ -22,7 +22,7 @@ Are you familiar with LaTeX fonts? check [mathfrak test](https://cims.nyu.edu/~t
 
 Summary of common LaTeX math symbols: [here](https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf)
 
-Start with proof-based mathematics: my note [here]([https://github.com/Hassiummm/Hello-World/blob/main/An%20Introduction%20to%20Proofs.pdf](https://github.com/Hassiummm/An-Introduction-to-Proofs/blob/main/An%20Introduction%20to%20Proofs.pdf))
+Start with proof-based mathematics: my note [here]([https://github.com/Hassiummm/Hello-World/blob/main/An%20Introduction%20to%20Proofs.pdf](https://github.com/Hassiummm/An-Introduction-to-Proofs/blob/main/An%20Introduction%20to%20Proofs.pdf)
 
 Sheldon Axler's answer on why LADR: [here](https://www.reddit.com/r/math/comments/15ahoci/why_does_sheldon_axler_hate_determinants/)
 
