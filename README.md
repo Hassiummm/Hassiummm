@@ -2,7 +2,7 @@
 
 I'm glad you visit here ^ _ ^
   
-What does "Hassiummm" mean? Hint: hassium is a chemical element with atomic number 108. 
+What does "Hassiummm" mean? hint: hassium is a chemical element
 
 What is "costudy"? Think about the dual: co-study, not studying at all...
 
